@@ -84,7 +84,7 @@ int main()
         }
     }
 
-    cout << "Your number + 5 is: " << n << endl;
+    cout << "Your number + 6 is: " << n << endl;
 
     return 0;
 }
